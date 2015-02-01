@@ -1,0 +1,6 @@
+E:\SoftUni\SoftUni\OOP\Homework_InheritanceAndAbstraction\Animal\bin\Debug\Animal.exe.config
+E:\SoftUni\SoftUni\OOP\Homework_InheritanceAndAbstraction\Animal\obj\Debug\Animals.csprojResolveAssemblyReference.cache
+E:\SoftUni\SoftUni\OOP\Homework_InheritanceAndAbstraction\Animal\bin\Debug\Animal.exe
+E:\SoftUni\SoftUni\OOP\Homework_InheritanceAndAbstraction\Animal\bin\Debug\Animal.pdb
+E:\SoftUni\SoftUni\OOP\Homework_InheritanceAndAbstraction\Animal\obj\Debug\Animal.exe
+E:\SoftUni\SoftUni\OOP\Homework_InheritanceAndAbstraction\Animal\obj\Debug\Animal.pdb
