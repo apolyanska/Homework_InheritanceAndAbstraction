@@ -41,7 +41,6 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="CompanyHierarchyMain.cs" />
     <Compile Include="Persons\Customers\Customer.cs" />
     <Compile Include="Persons\Customers\ICustomer.cs" />
     <Compile Include="Persons\Employees\Department.cs" />
@@ -64,6 +63,7 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+    <None Include="ClassDiagram1.cd" />
   </ItemGroup>
   <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
