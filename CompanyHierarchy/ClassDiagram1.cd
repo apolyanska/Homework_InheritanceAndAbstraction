@@ -67,49 +67,49 @@
     <Position X="12.5" Y="1.75" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAA=</HashCode>
-      <FileName>Persons\Customers\ICustomer.cs</FileName>
+      <FileName>Persons\Interfaces\ICustomer.cs</FileName>
     </TypeIdentifier>
   </Interface>
   <Interface Name="CompanyHierarchy.IEmployee" Collapsed="true">
     <Position X="16" Y="1.75" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAACAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAA=</HashCode>
-      <FileName>Persons\Employees\IEmployee.cs</FileName>
+      <FileName>Persons\Interfaces\IEmployee.cs</FileName>
     </TypeIdentifier>
   </Interface>
   <Interface Name="CompanyHierarchy.IManager" Collapsed="true">
     <Position X="12.5" Y="2.5" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAA=</HashCode>
-      <FileName>Persons\Employees\Managers\IManager.cs</FileName>
+      <FileName>Persons\Interfaces\IManager.cs</FileName>
     </TypeIdentifier>
   </Interface>
   <Interface Name="CompanyHierarchy.IRegularEmployee" Collapsed="true">
     <Position X="16" Y="2.5" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAA=</HashCode>
-      <FileName>Persons\Employees\RegularEmployees\IRegularEmployee.cs</FileName>
+      <FileName>Persons\Interfaces\IRegularEmployee.cs</FileName>
     </TypeIdentifier>
   </Interface>
   <Interface Name="CompanyHierarchy.IPerson" Collapsed="true">
     <Position X="14.25" Y="2.5" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAEAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAg=</HashCode>
-      <FileName>Persons\IPerson.cs</FileName>
+      <FileName>Persons\Interfaces\IPerson.cs</FileName>
     </TypeIdentifier>
   </Interface>
   <Interface Name="CompanyHierarchy.Persons.Employees.RegularEmployees.Developers.IDeveloper" Collapsed="true">
     <Position X="14.25" Y="1.75" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
-      <FileName>Persons\Employees\RegularEmployees\Developers\IDeveloper.cs</FileName>
+      <FileName>Persons\Interfaces\IDeveloper.cs</FileName>
     </TypeIdentifier>
   </Interface>
   <Interface Name="CompanyHierarchy.Persons.Employees.RegularEmployees.SalesEmployees.ISalesEmployee" Collapsed="true">
     <Position X="12.5" Y="3.25" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
-      <FileName>Persons\Employees\RegularEmployees\SalesEmployees\ISalesEmployee.cs</FileName>
+      <FileName>Persons\Interfaces\ISalesEmployee.cs</FileName>
     </TypeIdentifier>
   </Interface>
   <Enum Name="CompanyHierarchy.Department" Collapsed="true">

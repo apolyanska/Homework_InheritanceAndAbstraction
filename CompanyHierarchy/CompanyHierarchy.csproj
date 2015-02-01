@@ -41,21 +41,22 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="CompanyHierarchyMain.cs" />
     <Compile Include="Persons\Customers\Customer.cs" />
-    <Compile Include="Persons\Customers\ICustomer.cs" />
+    <Compile Include="Persons\Interfaces\ICustomer.cs" />
     <Compile Include="Persons\Employees\Department.cs" />
     <Compile Include="Persons\Employees\Employee.cs" />
-    <Compile Include="Persons\Employees\IEmployee.cs" />
-    <Compile Include="Persons\Employees\Managers\IManager.cs" />
+    <Compile Include="Persons\Interfaces\IEmployee.cs" />
+    <Compile Include="Persons\Interfaces\IManager.cs" />
     <Compile Include="Persons\Employees\RegularEmployees\Developers\Developer.cs" />
-    <Compile Include="Persons\Employees\RegularEmployees\Developers\IDeveloper.cs" />
+    <Compile Include="Persons\Interfaces\IDeveloper.cs" />
     <Compile Include="Persons\Employees\RegularEmployees\Developers\Projects\Project.cs" />
     <Compile Include="Persons\Employees\RegularEmployees\Developers\Projects\ProjectState.cs" />
     <Compile Include="Persons\Employees\RegularEmployees\RegularEmployee.cs" />
-    <Compile Include="Persons\Employees\RegularEmployees\SalesEmployees\ISalesEmployee.cs" />
+    <Compile Include="Persons\Interfaces\ISalesEmployee.cs" />
     <Compile Include="Persons\Employees\RegularEmployees\SalesEmployees\SalesEmployee.cs" />
-    <Compile Include="Persons\IPerson.cs" />
-    <Compile Include="Persons\Employees\RegularEmployees\IRegularEmployee.cs" />
+    <Compile Include="Persons\Interfaces\IPerson.cs" />
+    <Compile Include="Persons\Interfaces\IRegularEmployee.cs" />
     <Compile Include="Persons\Employees\Managers\Manager.cs" />
     <Compile Include="Persons\Person.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
